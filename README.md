@@ -1,4 +1,5 @@
-Bike Sales Report:
+Bike Sales Report
+
 Description: Analyzed bike sales data to uncover trends across customer demographics, product categories, and seasonal demand fluctuations.
 Purpose: To drive data-informed decisions in the bike sales industry by analyzing sales trends, customer demographics, and product preferences.
 Data Cleaning:
